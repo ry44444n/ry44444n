@@ -1,4 +1,4 @@
-# ![KanekiGIF (2)](https://github.com/user-attachments/assets/01eec78a-766d-491e-ba3a-1aaf250fb785) 
+![KanekiGIF](https://github.com/user-attachments/assets/8522af8d-f653-491f-aead-11b32ebaeb51)
 
 # Ryan-Christian-Santiago
 <p>https://ryan-santiago-portfolio.netlify.app/</p>
